@@ -9,4 +9,4 @@ Systems, Copywriting, Content Strategy & Content Design, Prototyping, Design Tok
 Analytics, Agile Methodologies
 - **Spoken Languages**: English, Portuguese
 
-shkmizu@gmail.com | [shkmizu](https://linkedin.com/in/shkmizu)  
+shkmizu@gmail.com | [Linkedin](https://linkedin.com/in/shkmizu)  
