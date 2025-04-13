@@ -1,6 +1,10 @@
-<a href="https://github.com/shkmizu/shkmizu">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shkmizu/shkmizu/main/dark_mode.svg">
-    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/shkmizu/shkmizu/main/light_mode.svg">
-  </picture>
-</a>
+yo, i'm shimizu 👋
+
+I'm a Software Engineering Student at FIAP, Brasil.  
+Passionate about design, programming, and optimizing experience.
+
+- **Languages**: Javascript, Typescript, Python, C#, HTML, CSS, JSON
+- **Spoken Languages**: English, Portuguese
+
+- **Email**: shkmizu@gmail.com  
+- **LinkedIn**: [shkmizu](https://linkedin.com/in/shkmizu)  
