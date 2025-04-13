@@ -1,7 +1,7 @@
 yo, i'm shimizu 👋
 
 I'm a Software Engineering Student at FIAP, Brasil.  
-Passionate about design, programming, and optimizing experience.
+passionate about creating user-friendly and visually appealing websites
 
 - **Tech**:  Javascript, Typescript, HTML, CSS, Python, React.js, Next.js, Tailwind, Shadcn, Git, Github, MySQL,
 Supabase, PostgreSQL, Figma, Framer, User Interface (UI) Design, User Experience (UX) Design, Design
